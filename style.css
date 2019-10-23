@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#canvas { width: 40%; height: 40% }
+
+#left {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 400px;
+  width: 400px;
+}
+
+#right {
+  position: absolute;
+  left: 500px;
+  top: 0;
+  height: 400px;
+  width: 400px;
+}
+
+#scene3d {
+  width: 300px;
+  height: 300px;
+  background: red;
+}
